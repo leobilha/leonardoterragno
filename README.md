@@ -1,4 +1,4 @@
-<h2 align="center">Hello Guys! I am Leonardo Terragno!👨‍💻</h2>
+<h1 align="center">Hello Guys! I am Leonardo Terragno!👨‍💻</h1>
 
 👨‍🎓 I am a Computer Science student at <a href="http://www.unisinos.br/">Unisinos</a>.
 <br />
