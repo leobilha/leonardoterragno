@@ -1,4 +1,4 @@
-<h2 align="center">Hello Guys! 👨‍💻</h2>
+<h2 align="center">Hello Guys! I am Leonardo Terragno!👨‍💻</h2>
 
 :department_store: I'm currently working on <a href="https://safeweb.com.br/">Safeweb Segurança da Informação</a> as Technical Support.
 <br />
