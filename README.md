@@ -6,6 +6,7 @@
 :department_store: I'm currently working on <a href="https://safeweb.com.br/">Safeweb Segurança da Informação</a> as Technical Support.
 <br />
 🏆 HDI-SCA Certified
+<br />
 :heart: I'm passionate about tech.
 <br />
 :link: <a href="https://linktr.ee/leobilha">My Social Networks.</a>
