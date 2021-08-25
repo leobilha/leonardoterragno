@@ -22,3 +22,6 @@
 <a href="https://www.linkedin.com/in/leonardo-bilha-terragno-614943124/">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
+
+<p align="center"> Quantidade de visitas </p>
+<p align="center">   <img alingn="center" src="https://lnkd.in/eNCbw786" /></p>
