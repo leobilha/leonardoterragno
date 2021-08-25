@@ -24,4 +24,4 @@
 </a>
 
 <p align="center"> Quantidade de visitas </p>
-<p align="center">   <img alingn="center" src="https://lnkd.in/eNCbw786" /></p>
+<p align="center">   <img alingn="center" src="https://github.com/leobilha" /></p>
