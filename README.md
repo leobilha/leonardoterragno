@@ -23,7 +23,3 @@
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white" title="My Social Network" align="right" alt="LinkedIn">
 </a>
 <br />
-<br />
-<br />
-<p align="center"> Quantidade  de visitas no meu perfil desde 24/08/2021  </p>
-<p align="center">   <img alingn="center" src="https://profile-counter.glitch.me/leobilha/count.svg" /></p>
