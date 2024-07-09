@@ -3,8 +3,6 @@
 
 👨‍🎓 I am a Computer Science student at <a href="http://www.unisinos.br/">Unisinos</a>.
 <br />
-:department_store: I'm currently working on <a href="https://safeweb.com.br/">Safeweb Segurança da Informação</a> as .NET Software Developer.
-<br />
 🏆 HDI-SCA Certified
 <br />
 :heart: I'm passionate about tech.
